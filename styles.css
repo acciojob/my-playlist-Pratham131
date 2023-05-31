@@ -4,11 +4,12 @@ main {
 }
 
 .player-one, .player-two {
+	padding: 5px;
 	background-color: white;
 	border: 1px solid black;
 }
 
-h1{
+h1, .player-two{
 	text-align: center;
 }
 .player-one a {
