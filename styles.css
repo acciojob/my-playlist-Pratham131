@@ -1,23 +1,22 @@
 /*  your css code here. If applicable */
-main {
-	background-color: #cccccc; 
+body {
+	background-color: rgba(0, 0, 0, 0); 
 }
 
-.player-one, .player-two {
+.player_one, .player_two {
 	padding: 5px;
 	background-color: white;
 	border: 1px solid black;
 	border-radius: 5px;
 }
 
-h1, .player-two{
+h1, .player_two{
 	text-align: center;
 }
 
 li{
 	list-style-type: none;
 }
-.player-one a {
-
+.player_one a {
 	text-decoration: none;
 }
